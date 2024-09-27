@@ -1,3 +1,13 @@
+@font-face {
+  font-family: futura;
+  src: url(./Futura-Bold.ttf);
+}
+
+@font-face {
+  font-family: gilroy;
+  src: url(./Gilroy-Medium.ttf);
+}
+
 *{
     margin: 0;
     padding: 0;
